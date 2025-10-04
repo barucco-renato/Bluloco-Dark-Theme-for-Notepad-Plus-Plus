@@ -135,14 +135,18 @@ Notepad++ uses XML configuration with:
 ## 📁 File Structure
 
 ```
-bluloco-dark-theme/
-├── bluloco-dark.xml          # Main theme file
+Bluloco-Dark-Theme-for-Notepad-Plus-Plus/
+├── BlulocoDark.xml          # Main theme file
 ├── README.md                 # This file
 └── screenshots/              # Theme preview images
-    ├── python.png
-    ├── javascript.png
+    ├── css.png
     ├── html.png
-    └── css.png
+    ├── js.png
+    ├── php.png
+    ├── py.png
+    ├── rb.png
+    └── ts.png
+    
 ```
 
 ## 🎯 Supported Languages
