@@ -2,7 +2,7 @@
 
 A complete port of the Bluloco Dark Visual Studio Code theme to Notepad++. This theme brings the beautiful, carefully crafted Bluloco color scheme to Notepad++ with full syntax highlighting support.
 
-![Bluloco Dark Theme Preview](https://github.com/uloco/theme-bluloco-dark/raw/master/images/theme-screenshot-dark.png)
+![Bluloco Dark Theme Preview](https://github.com/barucco-renato/Bluloco-Dark-Theme-for-Notepad-Plus-Plus/blob/main/screenshots/js.png)
 
 ## 🎨 About Bluloco
 
