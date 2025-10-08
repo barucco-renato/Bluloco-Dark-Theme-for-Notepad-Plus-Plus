@@ -212,6 +212,8 @@ To modify colors:
 
 ## 🤝 Contributing
 
+### [Buy me a coffee!](https://mepagaumcafe.com.br/barucco-renato/)
+
 Contributions to improve the theme are welcome!
 
 ### Areas for Improvement
